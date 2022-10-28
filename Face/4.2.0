@@ -1,0 +1,5 @@
+Collecting opencv-python
+  Downloading opencv_python-4.6.0.66-cp36-abi3-win_amd64.whl (35.6 MB)
+Requirement already satisfied: numpy>=1.17.3 in c:\users\abhishek m r\anaconda3\lib\site-packages (from opencv-python) (1.20.1)
+Installing collected packages: opencv-python
+Successfully installed opencv-python-4.6.0.66
